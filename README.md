@@ -27,6 +27,7 @@ Libraries	NumPy, Pandas, Scikit-learn
 Deep Learning	TensorFlow / Keras
 Visualization	Matplotlib, Seaborn
 Platform	Jupyter Notebook
+
 📂 Repository Layout
 📁 Email-Phishing
  ├── 📓 CS AND ANN.pdf.ipynb   → Core implementation
